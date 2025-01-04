@@ -8,6 +8,3 @@ To run the model, Simscape Multibody is needed to solve the kinematics.
 
 ## References
 [https://github.com/user-attachments/files/18094584/1-s2.0-S1367578817301050-main.1.pdf]
-
-### Disclaimer
-The robot seems to deviate off its straight line slightly. This is being looked into.

@@ -1,4 +1,4 @@
-# Snake-like Robot Modelling and Navigation (MATLAB and Simulink Challenge Project 224)
+# Snake-like Robot Modelling and Navigation
 
 [Project Description](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)
 
